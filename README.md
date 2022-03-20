@@ -1,3 +1,3 @@
 # TREK-APP-WSA
 
-main.py
+Run main.py
